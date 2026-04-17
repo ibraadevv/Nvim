@@ -1,0 +1,7 @@
+return {
+
+	{
+    		"MunifTanjim/nui.nvim"
+	}
+
+}
